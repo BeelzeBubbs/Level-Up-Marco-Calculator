@@ -1,6 +1,6 @@
 # Level Up Macro-Calculator and Progress Tracker
 
-
+This is a project that is not currently functional and incomplete. This intention of this project is to build an app that calculates your macronutrient requirements based on specific parameters.
 
 ## Table of Contents
 - [Introduction](#introduction)
