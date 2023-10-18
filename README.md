@@ -1,6 +1,6 @@
-# Level Up Macro-Calculator and Progress Tracker
+# Level Up Macro-Calculator and Progress Tracker v.0.0.2
 
-This is a project that is not currently functional and incomplete. The intention of this project is to build an app that calculates your macronutrient requirements based on specific parameters.
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@ This is a project that is not currently functional and incomplete. The intention
 
 ## Introduction
 
-Currently not functional. CSS Styling problem where toggle button when display is smaller is not in line with the navigation bar
+Currently not functional. CSS Styling problem where toggle button when display is smaller is not in line with the navigation bar. Need to made ajustments as to not make logo resize as the display is being resized.
 
 ## Features
 
@@ -68,7 +68,9 @@ n/a
 ## Contact
 
 email: will.fet23@gmail.com
+
 discord: beelzebubbs
+
 github: https://github.com/BeelzeBubbs
 
 ## Acknowledgements
